@@ -7,6 +7,7 @@ This project aims to predict whether a patient has heart disease using various m
 - **Project_1_Heart_Disease_Classification.ipynb**: The main Jupyter notebook for the heart disease classification project.
 - **environment.yml**: Conda environment file to create a reproducible Python environment for this project.
 - **heart-disease.csv**: The used dataset.
+- **requirements.txt**: Lists the dependencies required to run the notebook.
 
 ## Dataset
 
